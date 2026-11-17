@@ -1,0 +1,8 @@
+{
+  "name": "AR All Video Downloader",
+  "description": "Effortlessly download, manage, and play your favorite videos and audio with this premium, high-performance media downloader app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
